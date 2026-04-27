@@ -95,6 +95,4 @@ Classic references:
 - MiniLibX manual pages and 42 documentation
 - Complex numbers and escape-time fractal references
 
-AI usage:
-- AI was used to check subject constraints and help draft this README.
-- Final code behavior and project logic were verified against the source files.
+
