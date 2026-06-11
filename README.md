@@ -21,7 +21,7 @@ Implemented fractals:
 
 ---
 
-## Screenshots
+## 
 
 ### Mandelbrot
 
